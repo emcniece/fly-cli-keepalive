@@ -28,3 +28,5 @@ Uninstall:
 ```
 ./uninstall.sh
 ```
+
+`LOGFILE` can be checked to ensure that Fly CLI is doing what it's supposed to. `LOGFILE` only contains the most recent call as to prevent filesize buildup
